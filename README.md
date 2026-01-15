@@ -455,12 +455,6 @@ VITE_API_URL=http://localhost:5000/api/v1
 
 ---
 
-## 📄 License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
-
----
-
 ## 👥 Author
 SWAPNIL MISHRA
 
