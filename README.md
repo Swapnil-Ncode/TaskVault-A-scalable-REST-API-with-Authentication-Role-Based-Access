@@ -18,6 +18,32 @@ TaskVault is a scalable task management system with secure JWT authentication, r
 
 ---
 
+### 🔐 Demo Credentials
+
+Use the following accounts to test all features:
+👤 Admin Account
+- Email: userA@test.com , userb@test.com
+- Password: 123456 , 123456
+- Role: Admin
+- Can access:
+- Admin routes
+- View all users
+- Manage tasks
+- Full role-based access
+
+---
+### 🧪 How to Use:
+Go to frontend login page
+Login using above credentials
+
+Try:
+- Creating tasks
+- Editing/deleting tasks
+- Accessing admin routes with user (should fail)
+- Accessing admin routes with admin (should succeed)
+
+---
+
 ## 🎯 Overview
 - ✅ **User Authentication** - Secure registration and login with JWT
 - ✅ **Task Management** - Create, read, update, and delete tasks
