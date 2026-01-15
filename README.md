@@ -22,6 +22,7 @@ TaskVault is a scalable task management system with secure JWT authentication, r
 
 Use the following accounts to test all features:
 👤 Admin Account
+- Go to the Frontend page(deployed on Vercel): https://task-vault-a-scalable-rest-api-with.vercel.app/login
 - Email: userA@test.com , userb@test.com
 - Password: 123456 , 123456
 - Role: Admin
